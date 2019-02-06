@@ -150,17 +150,6 @@
                 "US"
             ]
         },
-        "provider": "UsenetServer",
-        "reseller": "UsenetServer"
-    },
-    {
-        "company": "Omicron",
-        "backbone": {
-            "name": "Highwinds",
-            "locations": [
-                "US"
-            ]
-        },
         "provider": "NewsHosting",
         "reseller": "NewsHosting"
     },
